@@ -249,6 +249,11 @@
           }
         }
       }
+    },
+    "__optional": {
+      "skipValidation": {
+        "__type": "boolean"
+      }
     }
   },
   "apiCredentials": {
