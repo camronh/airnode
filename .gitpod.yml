@@ -1,3 +1,5 @@
 tasks:
   - init: yarn run bootstrap
     command: yarn run build
+image:
+  file: .gitpod.Dockerfile
