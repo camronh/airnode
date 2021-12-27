@@ -1,0 +1,3 @@
+tasks:
+  - init: yarn run bootstrap
+    command: yarn run build
